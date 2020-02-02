@@ -14,7 +14,7 @@ class About extends Component {
                 heading: 'About FakeCars.com',
                 checked: newVal
             })
-        }
+        } // could also insert and else in here too
         return this.setState({
             heading: 'About Cars.com',
             checked: newVal

@@ -33,8 +33,12 @@ ul {
 
 .car-container {
   margin: 50px;
+  display: flex;
+  justify-content: center;
+
 }
 
 .car-paper {
   padding: 50px;
 }
+
